@@ -21,11 +21,11 @@
  https://carrykim.github.io/memopad/
 
 [로컬실행]
--git clone https://github.com/CarryKim/memopad.git
--Install Node.js
--node -v
--npm install -g create-react-app
--npx create-react-app memopad(name of project)
--npm install react-router-dom
--npm start
--http://localhost:3000
+- git clone https://github.com/CarryKim/memopad.git
+- Install Node.js
+- node -v
+- npm install -g create-react-app
+- npx create-react-app memopad(name of project)
+- npm install react-router-dom
+- npm start
+- http://localhost:3000
