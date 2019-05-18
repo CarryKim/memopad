@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/memopad/static/css/main.34de6062.chunk.css",
+    "main.js": "/memopad/static/js/main.1c4a98ff.chunk.js",
+    "main.js.map": "/memopad/static/js/main.1c4a98ff.chunk.js.map",
+    "runtime~main.js": "/memopad/static/js/runtime~main.bd74dc90.js",
+    "runtime~main.js.map": "/memopad/static/js/runtime~main.bd74dc90.js.map",
+    "static/js/2.7e675ef3.chunk.js": "/memopad/static/js/2.7e675ef3.chunk.js",
+    "static/js/2.7e675ef3.chunk.js.map": "/memopad/static/js/2.7e675ef3.chunk.js.map",
+    "index.html": "/memopad/index.html",
+    "precache-manifest.980714444796cdfd7f5a822211c1274f.js": "/memopad/precache-manifest.980714444796cdfd7f5a822211c1274f.js",
+    "service-worker.js": "/memopad/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/memopad/static/css/main.34de6062.chunk.css.map"
+  }
+}
